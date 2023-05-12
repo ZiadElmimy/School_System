@@ -1,4 +1,4 @@
 #ifndef PROJECT_H_INCLUDED
 #define PROJECT_H_INCLUDED
-
+#define Max 300
 #endif // PROJECT_H_INCLUDED
